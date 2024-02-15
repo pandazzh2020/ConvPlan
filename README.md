@@ -2,4 +2,4 @@
 
 ## Data
 
-The data file is `ConvPlan.json`.
+ The data file is `ConvPlan.json`.
